@@ -176,6 +176,17 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: research-labs
+    content:
+      title: Research Labs
+      filters:
+        folders:
+          - research-labs
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
     content:
       title: Recent Publications
       text: |-
