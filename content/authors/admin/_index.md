@@ -1,5 +1,7 @@
 ---
-avatar_filename: profile_pxl_20221218_112348049.portrait~2.jpg
+title: Rishabh Shukla
+role: Ph.D. Scholar
+avatar_filename: https://rishabh-hugo-academic.netlify.app/media/hero-academic_huc70d93133c25ab28042d15d1ecec0cb0_7012_1200x0_resize_lanczos_3.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -46,9 +48,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
-role: Ph.D. Scholar
 highlight_name: true
-title: Rishabh Shukla
 first_name: Alice
 email: ""
 ---
