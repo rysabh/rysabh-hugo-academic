@@ -1,7 +1,7 @@
 ---
 title: Rishabh Shukla
 role: Ph.D. Scholar
-avatar_filename: https://rishabh-hugo-academic.netlify.app/media/hero-academic_huc70d93133c25ab28042d15d1ecec0cb0_7012_1200x0_resize_lanczos_3.png
+avatar_filename: n164f7.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
